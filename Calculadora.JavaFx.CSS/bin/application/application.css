@@ -1,0 +1,213 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#botao0{
+	-fx-border-radius: 50px;
+	-fx-background-radius: 50px;
+	-fx-background-color: #363636;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botaovirgula{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: #363636;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botaoigual{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: #FFA500;
+	-fx-font-size: 16px;
+}
+
+#botaoigual:hover{
+	-fx-background-color: white;
+	-fx-text-fill: orange;
+	-fx-font-size: 16px;
+}
+
+#botaoC{
+	-fx-background-color: darkgrey;
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-font-family: arial, sans-serif;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botaoRaiz{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: darkgrey;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botaopor{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: darkgrey;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+	
+}
+
+#botaodividir{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: #FFA500;
+	-fx-font-size: 16px;
+}
+
+#botaodividir:hover{
+	-fx-background-color: white;
+	-fx-text-fill: orange;
+	-fx-font-size: 16px;
+}
+
+#botao7{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: #363636;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botao8{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: #363636;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botao9{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: #363636;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botaomult{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: #FFA500;
+	-fx-font-size: 16px;
+}
+
+#botaomult:hover{
+	-fx-background-color: white;
+	-fx-text-fill: orange;
+	-fx-font-size: 16px;
+}
+
+#botao4{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: #363636;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botao5{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: #363636;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botao6{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: #363636;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botaomenos{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: #FFA500;
+	-fx-font-size: 16px;
+}
+
+#botaomenos:hover{
+	-fx-background-color: white;
+	-fx-text-fill: orange;
+	-fx-font-size: 16px;
+}
+
+#botao1{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-text-fill: white;
+	-fx-background-color: #363636;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botao2{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-background-color: #363636;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+#botao3{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-text-fill: white;
+	-fx-background-color: #363636;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+	
+}
+
+#botaosomar{
+	-fx-border-radius: 45px;
+	-fx-background-radius: 45px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: #FFA500;
+	-fx-font-size: 16px;
+}
+
+#botaosomar:hover{
+	-fx-background-color: white;
+	-fx-text-fill: orange;
+	-fx-font-size: 16px;
+}
+
+#root{
+	-fx-background-color: black;
+	
+}
+
+#txt{
+	-fx-background-color: black;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 32px;
+}
